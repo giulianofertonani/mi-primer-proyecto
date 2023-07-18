@@ -18,7 +18,5 @@ if(sexo === 'men') {
     let resultado= (10*peso) + (6.25*altura ) - (5*edad) - 254;
     alert(`Tu metabolismo basal es de ${resultado}`);
 }
-
-
 }
 
